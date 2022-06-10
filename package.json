@@ -8,9 +8,17 @@
   "author": "",
   "license": "ISC",
   "keywords": [],
-  "description": "",
   "dependencies": {
     "bootstrap": "^5.1.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmarsaikhanBE/temp-node-tut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmarsaikhanBE/temp-node-tut/issues"
+  },
+  "homepage": "https://github.com/AmarsaikhanBE/temp-node-tut#readme",
+  "description": ""
 }
